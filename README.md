@@ -269,5 +269,3 @@ Se você está buscando aprender mais sobre DevOps de forma prática, recomendo 
 🔗 **Acesse o curso aqui:** [DevOps - Mão na Massa](https://www.udemy.com/course/devops-mao-na-massa/?srsltid=AfmBOorbohVQq4ub69jWrSUIu7adppeeUwsN8PD9R_uaQtGG-jeGIRql&couponCode=ST22MT240325G3)
 
 ---
-
-Isso permite que os leitores do seu repositório ou documento conheçam o curso e tenham acesso ao link diretamente.
